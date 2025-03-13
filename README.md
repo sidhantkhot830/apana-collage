@@ -1,4 +1,4 @@
-# apana-collage
+%# apana-collage
 This is first repository
 <br>
-author - Sidhant Khot
+author - Sidhant Khot (apana college)
